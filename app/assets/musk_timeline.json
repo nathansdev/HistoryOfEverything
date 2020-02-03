@@ -1,0 +1,562 @@
+[
+  {
+    "date": 1971,
+    "label": "Childhood",
+    "article": "childhood.txt",
+    "asset": {
+      "source": "Homo_Sapiens_Sapiens/Homo_Sapiens_Sapiens.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -40
+    },
+    "background": [
+      255,
+      255,
+      255
+    ],
+    "ticks": {
+      "background": [
+        245,
+        245,
+        245,
+        240
+      ],
+      "long": [
+        0,
+        0,
+        0,
+        60
+      ],
+      "short": [
+        0,
+        0,
+        0,
+        35
+      ],
+      "text": [
+        0,
+        0,
+        0,
+        110
+      ]
+    },
+    "header": {
+      "background": [
+        245,
+        245,
+        245,
+        240
+      ],
+      "text": [
+        0,
+        0,
+        0,
+        110
+      ]
+    }
+  },
+  {
+    "date": 1981,
+    "label": "Programming, books, video games",
+    "article": "programming_books_games.txt",
+    "asset": {
+      "source": "Elonmusk/images/computer_human_sabari.flr",
+      "width": 650,
+      "height": 800,
+      "offset": 0
+    }
+  },
+  {
+    "date": 1987,
+    "label": "Canada",
+    "article": "canada.txt",
+    "asset": {
+      "source": "First_Temple/First_Temple.nma",
+      "width": 340,
+      "height": 340,
+      "offset": -200
+    }
+  },
+  {
+    "date": 1989,
+    "label": "College",
+    "article": "college.txt",
+    "asset": {
+      "source": "Elonmusk/images/electric_car.flr",
+      "width": 528,
+      "height": 528,
+      "offset": -40
+    }
+  },
+  {
+    "date": 1995,
+    "label": "Zip2",
+    "article": "zip2.txt",
+    "asset": {
+      "source": "Writing/Writing.nma",
+      "width": 900,
+      "height": 1200,
+      "scale": 0.5,
+      "offset": -40,
+      "bounds": [
+        -459,
+        4,
+        441,
+        1204
+      ]
+    }
+  },
+  {
+    "date": 1999,
+    "label": "x.com, paypal, marriage",
+    "article": "x.com_paypal_marriage.txt",
+    "asset": {
+      "source": "Pyramid/Pyramid.nma",
+      "width": 400,
+      "height": 430,
+      "offset": -350
+    }
+  },
+  {
+    "date": 2001,
+    "label": "Learning Rocket and Russia",
+    "article": "learning_rocket.txt",
+    "asset": {
+      "source": "Elonmusk/images/launch.flr",
+      "width": 2100,
+      "height": 1375,
+      "scale": 0.5,
+      "offset": 0,
+      "bounds": [
+        -1030,
+        -7.5,
+        1070,
+        1367.5
+      ]
+    }
+  },
+  {
+    "date": 2003,
+    "label": "Electric cars, Tesla, Twins",
+    "article": "electric_cars_tesla_twins.txt",
+    "asset": {
+      "source": "Elonmusk/images/car.flr",
+      "width": 1000,
+      "height": 1200,
+      "offset": 100
+    }
+  },
+  {
+    "date": 2006,
+    "label": "NASA contracts, Rocket explode, triplets",
+    "article": "nasa_contract.txt",
+    "accent": [
+      227,
+      21,
+      55,
+      255
+    ],
+    "background": [
+      132,
+      175,
+      214
+    ],
+    "ticks": {
+      "background": [
+        113,
+        152,
+        188,
+        240
+      ],
+      "long": [
+        255,
+        255,
+        255,
+        75
+      ],
+      "short": [
+        255,
+        255,
+        255,
+        51
+      ],
+      "text": [
+        255,
+        255,
+        255,
+        157
+      ]
+    },
+    "header": {
+      "background": [
+        113,
+        152,
+        188,
+        240
+      ],
+      "text": [
+        255,
+        255,
+        255,
+        157
+      ]
+    },
+    "asset": {
+      "source": "Elonmusk/images/nasa.flr",
+      "width": 528,
+      "height": 528,
+      "offset": -60
+    }
+  },
+  {
+    "date": 2008,
+    "label": "Bankruptcy and nearly death",
+    "article": "bankruptcy_death.txt",
+    "asset": {
+      "source": "Elonmusk/images/bankrupt.flr",
+      "width": 500,
+      "height": 500,
+      "idle": "apple_falls"
+    }
+  },
+  {
+    "date": 2009,
+    "label": "Model S unveil",
+    "article": "model_s_unveil.txt",
+    "asset": {
+      "source": "Constantinople/Constantinople.nma",
+      "width": 500,
+      "height": 500
+    }
+  },
+  {
+    "date": 2010,
+    "label": "Tesla goes public",
+    "article": "tesla_public.txt",
+    "asset": {
+      "source": "BlackPlague/BlackPlague.nma",
+      "width": 800,
+      "height": 400
+    }
+  },
+  {
+    "date": 2011,
+    "background": [
+      0,
+      38,
+      75
+    ],
+    "accent": [
+      246,
+      76,
+      130,
+      255
+    ],
+    "ticks": {
+      "background": [
+        20,
+        57,
+        92,
+        240
+      ],
+      "long": [
+        255,
+        255,
+        255,
+        75
+      ],
+      "short": [
+        255,
+        255,
+        255,
+        51
+      ],
+      "text": [
+        255,
+        255,
+        255,
+        157
+      ]
+    },
+    "header": {
+      "background": [
+        11,
+        47,
+        81,
+        94
+      ],
+      "text": [
+        255,
+        255,
+        255,
+        157
+      ]
+    },
+    "label": "Sending humans to mars and reusable rockets announcement",
+    "article": "reusable_rocket_announcement.txt",
+    "asset": {
+      "source": "World_War_I/World_War_I.nma",
+      "width": 528,
+      "height": 528
+    }
+  },
+  {
+    "date": 2012,
+    "label": "Models Ships and divorce",
+    "accent": [
+      227,
+      21,
+      55,
+      255
+    ],
+    "article": "mode_s_shiping.txt",
+    "asset": {
+      "source": "Cold_war/Cold_war.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -80
+    }
+  },
+  {
+    "date": 2012,
+    "label": "Super charger and dummy rocket landing",
+    "article": "super_charging_dummy_rocket_landing.txt",
+    "accent": [
+      115,
+      132,
+      205,
+      255
+    ],
+    "asset": {
+      "source": "Moon/Moon.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -100
+    }
+  },
+  {
+    "date": 2013,
+    "label": "Marries Riley Again",
+    "article": "marriage_again_riley.txt",
+    "asset": {
+      "source": "Moon/Moon.nma",
+      "width": 1850,
+      "height": 2100,
+      "scale": 0.22,
+      "offset": 0,
+      "bounds": [
+        -934,
+        -859,
+        916,
+        1241
+      ]
+    }
+  },
+  {
+    "date": 2014,
+    "label": "Landing on ship and water",
+    "article": "landing_ship_water.txt",
+    "asset": {
+      "source": "Marie_Curie/Marie_Curie.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -40
+    }
+  },
+  {
+    "date": 2015,
+    "label": "Building Gigafactory",
+    "article": "building_gigafactory.txt",
+    "asset": {
+      "source": "Marie_Curie/Marie_Curie.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -140
+    }
+  },
+  {
+    "date": 2015,
+    "label": "Powerwall",
+    "article": "powerwall.txt",
+    "asset": {
+      "source": "Marie_Curie/Marie_Curie.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -40
+    }
+  },
+  {
+    "date": 2015,
+    "label": "Rocket Fails again",
+    "article": "rocket_fails.txt",
+    "asset": {
+      "source": "Marie_Curie/Marie_Curie.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -140
+    }
+  },
+  {
+    "date": 2015,
+    "label": "Challenged By Jeff",
+    "article": "elon_vs_jeff.txt",
+    "asset": {
+      "source": "Sufraggette_movement/Sufraggette_movement.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -40
+    }
+  },
+  {
+    "date": 2015,
+    "label": "First Reusable rocket",
+    "article": "first_reusable_rocket.txt",
+    "asset": {
+      "source": "Sufraggette_movement/Sufraggette_movement.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -40
+    }
+  },
+  {
+    "date": 2016,
+    "label": "Falcon Heavy",
+    "id": "amelia",
+    "background": [
+      31,
+      89,
+      143
+    ],
+    "ticks": {
+      "background": [
+        27,
+        79,
+        128,
+        240
+      ],
+      "long": [
+        255,
+        255,
+        255,
+        75
+      ],
+      "short": [
+        255,
+        255,
+        255,
+        51
+      ],
+      "text": [
+        255,
+        255,
+        255,
+        157
+      ]
+    },
+    "header": {
+      "background": [
+        27,
+        79,
+        128,
+        240
+      ],
+      "text": [
+        255,
+        255,
+        255,
+        157
+      ]
+    },
+    "article": "falcon_heavy.txt",
+    "asset": {
+      "source": "Amelia_Earhart/Amelia_Earhart.flr",
+      "width": 528,
+      "height": 528,
+      "offset": -140
+    }
+  },
+  {
+    "date": 2017,
+    "label": "Gigafactory production",
+    "article": "gigafactory_production.txt",
+    "accent": [
+      227,
+      21,
+      55,
+      255
+    ],
+    "asset": {
+      "source": "World_War_II/World_War_II.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -140
+    }
+  },
+  {
+    "date": 2017,
+    "label": "Model 3 First buy",
+    "article": "model_3_first_buy.txt",
+    "asset": {
+      "source": "Alan_Turing/Alan_Turing.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -140
+    }
+  },
+  {
+    "date": 2020,
+    "label": "Hyperloop launch",
+    "article": "hyperloop_launch.txt",
+    "id": "mlk",
+    "asset": {
+      "source": "Elonmusk/images/mars.flr",
+      "width": 528,
+      "height": 528,
+      "offset": -140
+    }
+  },
+  {
+    "date": 2025,
+    "label": "Colonizing mars",
+    "accent": [
+      115,
+      132,
+      205,
+      255
+    ],
+    "background": [
+      147,
+      72,
+      56
+    ],
+    "article": "colonizing_mars.txt",
+    "asset": {
+      "source": "Elonmusk/images/mars.flr",
+      "width": 384,
+      "height": 384,
+      "offset": -140
+    }
+  },
+  {
+    "date": 2050,
+    "label": "Next What?",
+    "accent": [
+      115,
+      132,
+      205,
+      255
+    ],
+    "background": [
+      147,
+      72,
+      56
+    ],
+    "article": "next_and_future.txt",
+    "asset": {
+      "source": "Internet/Internet.nma",
+      "width": 528,
+      "height": 528,
+      "offset": -140
+    }
+  }
+]

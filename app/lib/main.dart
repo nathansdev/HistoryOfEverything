@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:timeline/bloc_provider.dart';
@@ -14,7 +13,7 @@ class TimelineApp extends StatelessWidget {
     SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
     return BlocProvider(
       child: MaterialApp(
-        title: 'History & Future of Everything',
+        title: 'The History and Future',
         theme: ThemeData(
             backgroundColor: background, scaffoldBackgroundColor: background),
         home: MenuPage(),

@@ -1,0 +1,45 @@
+[
+  {
+    "label": "Life of Elon Musk",
+    "background": "#001d22",
+    "color": "#ffffff",
+    "asset": "mlk",
+    "items": [
+      {
+        "start": 1971,
+        "end": 1980,
+        "label": "Childhood"
+      },
+      {
+        "start": 1981,
+        "end": 1988,
+        "label": "Self-taught programmer"
+      },
+      {
+        "start": 1989,
+        "end": 1994,
+        "label": "College"
+      },
+      {
+        "start": 1995,
+        "end": 1998,
+        "label": "Zip2"
+      },
+      {
+        "start": 1999,
+        "end": 2000,
+        "label": "Paypal"
+      },
+      {
+        "start": 2003,
+        "end": 2019,
+        "label": "SpaceX & Tesla"
+      },
+      {
+        "start": 1995,
+        "end": 2018,
+        "label": "The art of failing"
+      }
+    ]
+  }
+]

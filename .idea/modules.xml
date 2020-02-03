@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Nima-Flutter/Nima-Flutter.iml" filepath="$PROJECT_DIR$/dependencies/Nima-Flutter/Nima-Flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/app/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/app/build/app/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/share/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/app/build/share/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/url_launcher/generated/source/buildConfig/buildConfig2.iml" filepath="$PROJECT_DIR$/app/build/url_launcher/generated/source/buildConfig/buildConfig2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/shared_preferences/generated/source/buildConfig/buildConfig3.iml" filepath="$PROJECT_DIR$/app/build/shared_preferences/generated/source/buildConfig/buildConfig3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/change_color/change_color.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/change_color/change_color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/checkbox/checkbox.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/checkbox/checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/slider/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/slider/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/favorite/favorite.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/favorite/favorite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/flare_dart/flare_dart.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/flare_dart/flare_dart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/flare_flutter/flare_flutter.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/flare_flutter/flare_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/teddy/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/teddy/android/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Nima-Flutter/example/ik/android/app/src/main/main1.iml" filepath="$PROJECT_DIR$/dependencies/Nima-Flutter/example/ik/android/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/favorite/android/app/src/main/main10.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/favorite/android/app/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/slider/android/app/src/main/main11.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/slider/android/app/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/space_reload/android/app/src/main/main12.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/space_reload/android/app/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/simple/android/app/src/main/main2.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/simple/android/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/change_color/android/app/src/main/main3.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/change_color/android/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/penguin_dance/android/app/src/main/main4.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/penguin_dance/android/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/checkbox/android/app/src/main/main5.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/checkbox/android/app/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Nima-Flutter/example/hop/android/app/src/main/main6.iml" filepath="$PROJECT_DIR$/dependencies/Nima-Flutter/example/hop/android/app/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Nima-Flutter/example/json_reader/android/app/src/main/main7.iml" filepath="$PROJECT_DIR$/dependencies/Nima-Flutter/example/json_reader/android/app/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/flare_flutter/android/app/src/main/main8.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/flare_flutter/android/app/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/android/app/src/main/main9.iml" filepath="$PROJECT_DIR$/app/android/app/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/penguin_dance/penguin_dance.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/penguin_dance/penguin_dance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/slider/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/slider/android/app/src/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/share/generated/source/r/r.iml" filepath="$PROJECT_DIR$/app/build/share/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/url_launcher/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/app/build/url_launcher/generated/source/r/r1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/shared_preferences/generated/source/r/r2.iml" filepath="$PROJECT_DIR$/app/build/shared_preferences/generated/source/r/r2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/simple/simple.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/simple/simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/slider/slider.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/slider/slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/space_reload/space_reload.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/space_reload/space_reload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/Flare-Flutter/example/teddy/teddy.iml" filepath="$PROJECT_DIR$/dependencies/Flare-Flutter/example/teddy/teddy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/tools.iml" filepath="$PROJECT_DIR$/tools/tools.iml" />
+    </modules>
+  </component>
+</project>
