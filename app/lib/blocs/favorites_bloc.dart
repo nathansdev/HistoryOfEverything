@@ -1,5 +1,4 @@
 import "package:shared_preferences/shared_preferences.dart";
-
 import "package:timeline/timeline/timeline_entry.dart";
 
 /// Stores the logic for handling favorites throughout the app.

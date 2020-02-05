@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import "package:timeline/colors.dart";
 
 /// Draws the search bar on top of the menu.

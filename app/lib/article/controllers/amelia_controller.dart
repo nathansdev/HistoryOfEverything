@@ -1,6 +1,7 @@
-import 'package:flare_flutter/flare.dart';
 import 'package:flare_dart/math/mat2d.dart';
 import 'package:flare_dart/math/vec2d.dart';
+import 'package:flare_flutter/flare.dart';
+
 import 'flare_interaction_controller.dart';
 
 // "Amelia Earhart" Article Page contains a custom controller.

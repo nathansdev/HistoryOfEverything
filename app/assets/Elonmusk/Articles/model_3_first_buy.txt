@@ -1,1 +1,5 @@
-model 3 buying
+The Model 3 carries full self-driving hardware, with periodic software updates adding functionality.
+
+Limited production of the Model 3 began in mid-2017, with the first production vehicle rolling off the assembly line on July 7, 2017, with the official launch and delivery of the first 30 cars on July 28.[16] On July 1, 2018, Elon Musk announced that Tesla had met its production goal of 5,000 cars in a week
+
+The Model 3 was officially launched in March 2019 following extensive production delays. The car was initially priced at $35,000, a much more accessible price point than the $69,500 and up for its Model S and X electric sedans.

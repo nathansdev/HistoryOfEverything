@@ -2,6 +2,7 @@ import 'package:nima/nima.dart';
 import 'package:nima/nima/actor_node.dart';
 import 'package:nima/nima/math/mat2d.dart';
 import 'package:nima/nima/math/vec2d.dart';
+
 import 'nima_interaction_controller.dart';
 
 /// "Newton's Theory of Gravity" Article Page contains a custom controller.

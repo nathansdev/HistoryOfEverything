@@ -1,7 +1,6 @@
 import "package:flutter/material.dart";
-
-import "package:timeline/timeline/timeline_entry.dart";
 import "package:timeline/article/timeline_entry_widget.dart";
+import "package:timeline/timeline/timeline_entry.dart";
 
 /// This widget is responsible for drawing the circular thumbnail within the [ThumbnailDetailWidget].
 /// 

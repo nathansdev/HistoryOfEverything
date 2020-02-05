@@ -1,0 +1,4 @@
+Tesla started development in 2012, installing prototypes at selected industrial customers. In some cases, PowerPacks have reduced the electrical bill by 20%.
+Then tesla officially launched Powerwall at the April 30, 2015. The Powerwall and Powerpack are rechargeable lithium-ion battery stationary energy storage products manufactured by Tesla, Inc. The Powerwall is intended to be used for home energy storage and stores electricity for solar self-consumption, time of use load shifting, backup power, and off-the-grid use.
+
+Powerwall can be integrated with solar to store excess energy generated during the day and makes it available when you need it, minimizing reliance on your utility.

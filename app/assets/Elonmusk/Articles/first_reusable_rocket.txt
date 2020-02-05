@@ -1,0 +1,7 @@
+The first reusable launch vehicle to reach orbit was the Space Shuttle, which was not able to accomplish the intended goal of reducing launch costs to below those of expendable launch systems. SpaceX CEO Elon Musk, said if one can figure out how to reuse rockets like airplanes, the cost of access to space will be reduced by as much as a factor of a hundred. SpaceX's Falcon 9 rocket is the first reusable orbital-class launch system to be commercially successful, continuing its operation to date.
+
+SpaceX achieved the first vertical soft landing of a re-usable orbital rocket stage on December 21, 2015, after helping send 11 Orbcomm OG-2 commercial satellites into low Earth orbit.
+
+The first Falcon 9 second flight occurred on 30 March 2017. SpaceX now routinely recovers and reuses their first stages, with the intent of reusing fairings as well.[17]
+
+As of August 2019, the only operational reusable orbital-class launch systems are the Falcon 9 and Falcon Heavy. SpaceX is also developing the fully reusable Starship launch system

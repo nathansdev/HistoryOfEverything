@@ -318,23 +318,6 @@
     }
   },
   {
-    "date": 2012,
-    "label": "Super charger and dummy rocket landing",
-    "article": "super_charging_dummy_rocket_landing.txt",
-    "accent": [
-      115,
-      132,
-      205,
-      255
-    ],
-    "asset": {
-      "source": "Moon/Moon.nma",
-      "width": 528,
-      "height": 528,
-      "offset": -100
-    }
-  },
-  {
     "date": 2013,
     "label": "Marries Riley Again",
     "article": "marriage_again_riley.txt",
